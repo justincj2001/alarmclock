@@ -96,7 +96,7 @@ select::-webkit-scrollbar-thumb{
 }
 .wrapper button:hover{
   /* hover at time of set alaram button */
-  background: #2382f6;
+  background: #f90452;
 }
 
 @media screen and (max-width: 530px) {
